@@ -1,0 +1,3 @@
+/home/linzs/zqy_hw/preintegrate/build/CMakeFiles/test.dir
+/home/linzs/zqy_hw/preintegrate/build/CMakeFiles/edit_cache.dir
+/home/linzs/zqy_hw/preintegrate/build/CMakeFiles/rebuild_cache.dir
